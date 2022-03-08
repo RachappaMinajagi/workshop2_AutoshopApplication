@@ -1,1 +1,1 @@
-# workshop2_AutoshopApplication
+# workshop2_MyOwnAutoshopApplication
